@@ -54,4 +54,3 @@ A desktop app built with **PyQt6** that converts invoices into PDF and generates
 
 ---
 
-![Răzvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RazTan1234&show_icons=true&theme=tokyonight)
